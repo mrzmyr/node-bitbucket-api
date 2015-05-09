@@ -20,6 +20,10 @@ var repository = client.getRepository({
    //Code to access the repo object.
 });
 ```
+## Requirements
+
+- cURL library (Windows)
+
 ## Credits
 
 - Thanks to [hgarcia](https://npmjs.org/~hgarcia) for [bitbucket-api](https://npmjs.org/package/bitbucket-api)
